@@ -15,7 +15,7 @@ rest of our users.
 
 There's some starter code set up, so you won't need to create any new components
 for this lab. Your goal will be to work with `fetch` and interact with our quiz
-API to perform the necessary CRUD operations to complete these deliverables.
+API to perform the necessary CRUD operations to complete these deliverables.n
 
 ## Setup
 
